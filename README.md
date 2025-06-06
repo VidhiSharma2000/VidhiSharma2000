@@ -1,25 +1,17 @@
-# VIDHI SHARMA
-
 <div align="center">
+
+```ascii
+██╗   ██╗██╗██████╗ ██╗  ██╗██╗      █████╗       ███████╗██╗  ██╗ █████╗ ██████╗ ███╗   ███╗ █████╗ 
+██║   ██║██║██╔══██╗██║  ██║██║     ██╔══██╗      ██╔════╝██║  ██║██╔══██╗██╔══██╗████╗ ████║██╔══██╗
+██║   ██║██║██║  ██║███████║██║     ███████║      ███████╗███████║███████║██████╔╝██╔████╔██║███████║
+╚██╗ ██╔╝██║██║  ██║██╔══██║██║     ██╔══██║      ╚════██║██╔══██║██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║
+ ╚████╔╝ ██║██████╔╝██║  ██║██║ ██╗ ██║  ██║ ██╗  ███████║██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║
+  ╚═══╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
+```
 
 ![Matrix SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=LOADING...;INSIGHT+ASSASSIN+DETECTED;MS+APPLIED+BUSINESS+ANALYTICS+%7C+BOSTON+UNIVERSITY;%3E%3E%3E+CONVERTING+CHAOS+INTO+COLD+HARD+CASH+%3C%3C%3C)
 
-</div>
-
----
-
-<div align="center">
-
 ### 🚨 WARNING: HIGH LEVELS OF DATA OBSESSION DETECTED 🚨
-
-```ascii
-    ██╗   ██╗██╗██████╗ ██╗  ██╗██╗
-    ██║   ██║██║██╔══██╗██║  ██║██║
-    ██║   ██║██║██║  ██║███████║██║
-    ╚██╗ ██╔╝██║██║  ██║██╔══██║██║
-     ╚████╔╝ ██║██████╔╝██║  ██║██║
-      ╚═══╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝
-```
 
 **[ INSIGHT ASSASSIN • DATA DETECTIVE • ANALYTICS ARCHITECT ]**
 
@@ -31,7 +23,7 @@
 
 <div align="center">
 
-![Snake Animation](https://github.com/VidhiSharma2000/VidhiSharma2000/blob/output/github-contribution-grid-snake-dark.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VidhiSharma2000&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=ff6b6b&line=feca57&point=ff9ff3)
 
 </div>
 
@@ -66,8 +58,24 @@ SUPERPOWER: Making Excel cry tears of joy
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Tableau](https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/EXCEL_NINJA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### ⚔️ SECONDARY ARSENAL ⚔️
+### ⚔️ BUSINESS WARFARE TOOLKIT ⚔️
+
+![SAS](https://img.shields.io/badge/SAS-1f425f?style=for-the-badge&logo=sas&logoColor=white)
+![Dataiku](https://img.shields.io/badge/DATAIKU-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Salesforce](https://img.shields.io/badge/SALESFORCE-00D2FF?style=for-the-badge&logo=salesforce&logoColor=white)
+![Agile](https://img.shields.io/badge/AGILE_MASTER-FF6B35?style=for-the-badge&logo=agile&logoColor=white)
+
+### 🎯 ANALYTICS ARSENAL 🎯
+
+![Predictive Analytics](https://img.shields.io/badge/PREDICTIVE_ANALYTICS-FF4757?style=for-the-badge&logo=chart-line&logoColor=white)
+![Statistical Modeling](https://img.shields.io/badge/STATISTICAL_MODELING-5352ED?style=for-the-badge&logo=formula&logoColor=white)
+![KPI Analysis](https://img.shields.io/badge/KPI_ANALYSIS-26D0CE?style=for-the-badge&logo=target&logoColor=white)
+![Forecasting](https://img.shields.io/badge/MARKET_FORECASTING-FFA726?style=for-the-badge&logo=trending-up&logoColor=white)
+
+### ☁️ CLOUD DOMINATION ☁️
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -228,7 +236,9 @@ WARNING: Side effects include clean dashboards and profitable insights
 
 <div align="center">
 
-```
+<div align="center">
+
+```ascii
  ██████╗  █████╗ ███╗   ███╗███████╗     ██████╗ ██╗   ██╗███████╗██████╗ 
 ██╔════╝ ██╔══██╗████╗ ████║██╔════╝    ██╔═══██╗██║   ██║██╔════╝██╔══██╗
 ██║  ███╗███████║██╔████╔██║█████╗      ██║   ██║██║   ██║█████╗  ██████╔╝
@@ -238,5 +248,7 @@ WARNING: Side effects include clean dashboards and profitable insights
 ```
 
 *"I don't just analyze data... I make it confess its deepest secrets."*
+
+</div>
 
 </div>
