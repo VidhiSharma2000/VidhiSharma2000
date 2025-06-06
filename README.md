@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Matrix SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=LOADING...;DATA+WIZARD+DETECTED;BUSINESS+ANALYTICS+%7C+BOSTON+UNIVERSITY;%3E%3E%3E+TURNING+CHAOS+INTO+INSIGHTS+%3C%3C%3C)
+![Matrix SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=LOADING...;INSIGHT+ASSASSIN+DETECTED;MS+APPLIED+BUSINESS+ANALYTICS+%7C+BOSTON+UNIVERSITY;%3E%3E%3E+CONVERTING+CHAOS+INTO+COLD+HARD+CASH+%3C%3C%3C)
 
 </div>
 
@@ -21,7 +21,7 @@
       ╚═══╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝
 ```
 
-**[ ANALYTICS ASSASSIN • DATA DETECTIVE • INSIGHT ARCHITECT ]**
+**[ INSIGHT ASSASSIN • DATA DETECTIVE • ANALYTICS ARCHITECT ]**
 
 </div>
 
